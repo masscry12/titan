@@ -1,0 +1,14 @@
+{
+  "entity.titanmod.titan": "Titan",
+  "key.titanmod.dash": "Titan Dash",
+  "key.categories.titanmod": "Titan Mod",
+  "hud.titanmod.overheat": "OVERHEAT",
+  "message.titanmod.status": "Titan | Health: %s/%s | Shield: %s/%s",
+  "message.titanmod.not_owner": "This Titan belongs to another pilot.",
+  "command.titanmod.spawn.ok": "Titan spawned.",
+  "command.titanmod.spawn.fail": "Could not spawn the Titan here.",
+  "command.titanmod.clear.ok": "Removed %s Titan(s).",
+  "command.titanmod.player_only": "This command can only be run by a player.",
+  "command.titanmod.none_nearby": "No Titan within 32 blocks.",
+  "command.titanmod.shield.ok": "Titan shield set to %s."
+}
