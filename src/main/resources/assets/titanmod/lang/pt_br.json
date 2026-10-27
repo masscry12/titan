@@ -1,0 +1,13 @@
+{
+  "entity.titanmod.titan": "Titã",
+  "key.titanmod.dash": "Dash do Titã",
+  "key.categories.titanmod": "Titan Mod",
+  "message.titanmod.status": "Titã | Vida: %s/%s | Escudo: %s/%s",
+  "message.titanmod.not_owner": "Este Titã pertence a outro piloto.",
+  "command.titanmod.spawn.ok": "Titã criado.",
+  "command.titanmod.spawn.fail": "Não foi possível criar o Titã aqui.",
+  "command.titanmod.clear.ok": "%s Titã(s) removido(s).",
+  "command.titanmod.player_only": "Este comando só pode ser usado por um jogador.",
+  "command.titanmod.none_nearby": "Nenhum Titã em 32 blocos.",
+  "command.titanmod.shield.ok": "Escudo do Titã definido para %s."
+}
